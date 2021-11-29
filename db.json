@@ -1,0 +1,24 @@
+{
+  "subgroups": [
+    {
+      'id': 0,
+      'subgroup': 'Camada Simples 1'
+    },
+    {
+      'id': 1,
+      'subgroup': 'Camada Simples 2'
+    },
+    {
+      'id': 2,
+      'subgroup': 'Camada Simples 3 '
+    },
+    {
+      'id': 3,
+      'subgroup': 'Camada Simples 4'
+    },
+    {
+      'id': 4,
+      'subgroup': 'Camada Simples 5'
+    }
+  ]
+}
